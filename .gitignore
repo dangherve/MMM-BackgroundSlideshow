@@ -3,3 +3,5 @@ node_modules
 **filesShownTracker.txt
 
 !buildTools
+
+!.woodpecker
