@@ -3,4 +3,5 @@ node_modules
 **filesShownTracker.txt
 geoCache.json
 !buildTools
+!.woodpecker
 
